@@ -8,6 +8,8 @@
 🛰️ 💧](https://github.com/danielbrito91/cyanobacteria-monitoring)
 A regression model that predicts cyanobacteria concentration of Guaíba Lake using satellite image. Deployed on [Streamlit](https://danielbrito91-cyanobacteria-monitoring-app-q9d98u.streamlit.app/).
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![]
+
 ---
 [Fantano doesn't like to dance 🎧](https://danielbrito.netlify.app/post/2021-07-24-fantano-doesn-t-like-to-dance-a-classification-model-on-needle-drop-s-reviews/)
 A classification model that predicts if Anthony Fantano will score a album with at least 8, making it on the Loved List.
