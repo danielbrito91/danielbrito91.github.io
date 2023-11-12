@@ -13,6 +13,8 @@ A regression model that predicts cyanobacteria concentration of Guaíba Lake usi
 ---
 [Fantano doesn't like to dance 🎧](https://danielbrito.netlify.app/post/2021-07-24-fantano-doesn-t-like-to-dance-a-classification-model-on-needle-drop-s-reviews/)
 A classification model that predicts if Anthony Fantano will score a album with at least 8, making it on the Loved List.
+[![](https://img.shields.io/badge/R?logo=r)](#) 
+
 
 ---
 [Residência de Medicina de Emergência no Brasil: quais fatores influenciam a segurança dos residentes nos procedimentos?](https://github.com/danielbrito91/resemer)
