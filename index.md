@@ -8,7 +8,7 @@
 🛰️ 💧](https://github.com/danielbrito91/cyanobacteria-monitoring)
 A regression model that predicts cyanobacteria concentration of Guaíba Lake using satellite image. Deployed on [Streamlit](https://danielbrito91-cyanobacteria-monitoring-app-q9d98u.streamlit.app/).
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Plotly?logo=plotly)(#) [![](https://img.shields.io/badge/Scikit_learn?logo=scikitlearn)(#) [![](https://img.shields.io/badge/Streamlit?logo=streamlit)(#) [![](https://img.shields.io/badge/S3?logo=amazons3)(#) [![](https://img.shields.io/badge/Google_Earth_Engine-white?logo=googleearthengine)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Plotly?logo=plotly)(#) [![](https://img.shields.io/badge/Scikitlearn?logo=scikitlearn)(#) [![](https://img.shields.io/badge/Streamlit?logo=streamlit)(#) [![](https://img.shields.io/badge/S3?logo=amazons3)(#) [![](https://img.shields.io/badge/Google_Earth_Engine-white?logo=googleearthengine)](#)
 
 ---
 [Fantano doesn't like to dance 🎧](https://danielbrito.netlify.app/post/2021-07-24-fantano-doesn-t-like-to-dance-a-classification-model-on-needle-drop-s-reviews/)
