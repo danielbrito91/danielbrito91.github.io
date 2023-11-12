@@ -1,23 +1,26 @@
-## Portfolio
+## Data Science portfolio
 
 ---
 
-### Category Name 1 
+### Personal projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Cyanobacteria monitoring 
+🛰️ 💧](https://github.com/danielbrito91/cyanobacteria-monitoring)
+A regression model that predicts cyanobacteria concentration of Guaíba Lake using satellite image. Deployed on [Streamlit](https://danielbrito91-cyanobacteria-monitoring-app-q9d98u.streamlit.app/).
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Fantano doesn't like to dance 🎧](https://danielbrito.netlify.app/post/2021-07-24-fantano-doesn-t-like-to-dance-a-classification-model-on-needle-drop-s-reviews/)
+A classification model that predicts if Anthony Fantano will score a album with at least 8, making it on the Loved List.
+
+---
+[Residência de Medicina de Emergência no Brasil: quais fatores influenciam a segurança dos residentes nos procedimentos?](https://github.com/danielbrito91/resemer)
+Paper presented on CBMEDE 2022. We studied the factors associated with self-perceived safety of emergency medicine residents in Brazil when performing various hospital procedures, categorized as very unsafe/unsafe/neutral/safe or very safe.
+
+<img src="images/procedimentos.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Environmental Engineering published papers
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
