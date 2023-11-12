@@ -27,12 +27,8 @@ Paper presented on CBMEDE 2022. We studied the factors associated with self-perc
 
 ### Environmental Engineering published papers
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- [Pumping test analysis aiming to identify problems in tubular well
+casing](https://www.ucs.br/educs/arquivo/ebook/gestao-e-tecnologias-para-o-meio-ambiente-visoes-e-acoes-interdisciplinares-vol-ii/)
 ---
 
 
