@@ -4,8 +4,7 @@
 
 ### Personal projects
 
-[Cyanobacteria monitoring 
-🛰️ 💧](https://github.com/danielbrito91/cyanobacteria-monitoring)
+<a href="https://github.com/danielbrito91/cyanobacteria-monitoring" target="_blank">Cyanobacteria monitoring 🛰️ 💧</a>
 A regression model that predicts cyanobacteria concentration of Guaíba Lake using satellite image. Deployed on [Streamlit](https://danielbrito91-cyanobacteria-monitoring-app-q9d98u.streamlit.app/).
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Plotly-gray?logo=plotly)](#) [![](https://img.shields.io/badge/Scikit_learn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/Streamlit-white?logo=streamlit)](#) [![](https://img.shields.io/badge/Amazon_S3-white?logo=amazons3)](#) [![](https://img.shields.io/badge/Pandas-gray?logo=pandas)](#) [![](https://img.shields.io/badge/Google_Earth_Engine-white?logo=googleearthengine)](#)
