@@ -5,7 +5,7 @@
 ### Personal projects
 
 <a href="https://github.com/danielbrito91/cyanobacteria-monitoring" target="_blank">Cyanobacteria monitoring 🛰️ 💧</a><br>
-A regression model that predicts cyanobacteria concentration of Guaíba Lake using satellite image. Deployed on [Streamlit](https://danielbrito91-cyanobacteria-monitoring-app-q9d98u.streamlit.app/).
+A regression model that predicts cyanobacteria concentration of Guaíba Lake using satellite image. Deployed on <a href="https://danielbrito91-cyanobacteria-monitoring-app-q9d98u.streamlit.app/" target="_blank">Streamlit</a>.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Plotly-gray?logo=plotly)](#) [![](https://img.shields.io/badge/Scikit_learn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/Streamlit-white?logo=streamlit)](#) [![](https://img.shields.io/badge/Amazon_S3-white?logo=amazons3)](#) [![](https://img.shields.io/badge/Pandas-gray?logo=pandas)](#) [![](https://img.shields.io/badge/Google_Earth_Engine-white?logo=googleearthengine)](#)
 
@@ -26,8 +26,8 @@ Paper presented on CBMEDE 2022. We studied the factors associated with self-perc
 
 ### Environmental Engineering published papers
 
-- [Pumping test analysis aiming to identify problems in tubular well
-casing](https://www.ucs.br/educs/arquivo/ebook/gestao-e-tecnologias-para-o-meio-ambiente-visoes-e-acoes-interdisciplinares-vol-ii/)
+- <a href="https://www.ucs.br/educs/arquivo/ebook/gestao-e-tecnologias-para-o-meio-ambiente-visoes-e-acoes-interdisciplinares-vol-ii/" target="_blank">Pumping test analysis aiming to identify problems in tubular well</a>
+casing]
 ---
 
 
