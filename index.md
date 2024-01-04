@@ -9,6 +9,8 @@ A regression model that predicts cyanobacteria concentration of Guaíba Lake usi
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Plotly-gray?logo=plotly)](#) [![](https://img.shields.io/badge/Scikit_learn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/Streamlit-white?logo=streamlit)](#) [![](https://img.shields.io/badge/Amazon_S3-white?logo=amazons3)](#) [![](https://img.shields.io/badge/Pandas-gray?logo=pandas)](#) [![](https://img.shields.io/badge/Google_Earth_Engine-white?logo=googleearthengine)](#)
 
+<img src="images/guaiba.gif"/>
+
 ---
 <a href="https://danielbrito.netlify.app/post/2021-07-24-fantano-doesn-t-like-to-dance-a-classification-model-on-needle-drop-s-reviews/" target="_blank">Fantano doesn't like to dance 🎧</a><br>
 A classification model that predicts if Anthony Fantano will score a album with at least 8, making it on the Loved List.
