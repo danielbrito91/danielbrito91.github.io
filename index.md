@@ -17,6 +17,8 @@ A classification model that predicts if Anthony Fantano will score a album with 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/R-gray?logo=r)](#) [![](https://img.shields.io/badge/Tidyverse-gray?logo=tidyverse)](#) [![](https://img.shields.io/badge/Scikit_learn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/Pandas-gray?logo=pandas)](#)
 
+<img src="images/unnamed-chunk-10-3 (1).png"/>
+
 ---
 <a href="https://github.com/danielbrito91/resemer" target="_blank">Residência de Medicina de Emergência no Brasil: quais fatores influenciam a segurança dos residentes nos procedimentos?</a><br>
 Paper presented on CBMEDE 2022. We studied the factors associated with self-perceived safety of emergency medicine residents in Brazil when performing various hospital procedures, categorized as very unsafe/unsafe/neutral/safe or very safe.
