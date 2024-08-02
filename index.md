@@ -9,7 +9,7 @@ A regression model that predicts cyanobacteria concentration of Guaíba Lake usi
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Plotly-gray?logo=plotly)](#) [![](https://img.shields.io/badge/Scikit_learn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/Streamlit-white?logo=streamlit)](#) [![](https://img.shields.io/badge/Amazon_S3-white?logo=amazons3)](#) [![](https://img.shields.io/badge/Pandas-gray?logo=pandas)](#) [![](https://img.shields.io/badge/Google_Earth_Engine-white?logo=googleearthengine)](#)
 
-<img src="images/guaiba.gif"/>
+<img src="images/guaiba.gif" width="400"/>
 
 ---
 <a href="https://deploy-preview-1--danielbrito.netlify.app/post/2021-07-24-fantano-doesn-t-like-to-dance-a-classification-model-on-needle-drop-s-reviews/" target="_blank">Fantano doesn't like to dance 🎧</a><br>
@@ -17,7 +17,7 @@ A classification model that predicts if Anthony Fantano will score a album with 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/R-gray?logo=r)](#) [![](https://img.shields.io/badge/Tidyverse-gray?logo=tidyverse)](#) [![](https://img.shields.io/badge/Scikit_learn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/Pandas-gray?logo=pandas)](#)
 
-<img src="images/unnamed-chunk-10-3 (1).png"/>
+<img src="images/unnamed-chunk-10-3 (1).png" width="400"/>
 
 ---
 <a href="https://github.com/danielbrito91/resemer" target="_blank">Residência de Medicina de Emergência no Brasil: quais fatores influenciam a segurança dos residentes nos procedimentos?</a><br>
@@ -25,7 +25,7 @@ Paper presented on CBMEDE 2022. We studied the factors associated with self-perc
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/R-gray?logo=r)](#)
 
-<img src="images/procedimentos.png?raw=true"/>
+<img src="images/procedimentos.png?raw=true" width="800"/>
 
 ---
 
